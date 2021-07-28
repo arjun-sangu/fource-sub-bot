@@ -9,6 +9,7 @@
 - [ ] LOGGER support.
 
 ## Deploy
+href="https://heroku.com/deploy?template=https://github.com/arjunsangu/fource-sub-bot">
 
 ### Installation
 - Clone this repo
