@@ -13,7 +13,7 @@
 ### Installation
 - Clone this repo
 ```
-git clone https://github.com/viperadnan-git/force-subscribe-telegram-bot
+git clone https://github.com/arjunsangu/fource-sub-bot
 ```
 - Change directory
 ```
